@@ -5,7 +5,7 @@ Below are the proudest pieces of code I have produced.
 I will not give away the secret algorithm under the hood, but this is what running it looks like:
 ```
 const rappersOfAllTime = [ "Biggie", "Tupac", "Kendrick", "Kanye", "Rakim", "JayZ", "Lauryn Hill", "Eminem", "Andre 3000", "Lil Wayne", "Ghostface Killah", "Drake", "Nas" ];
-const sorted = chappelleSort(array);
+const sorted = chappelleSort(rappersOfAllTime);
 
 console.log(sorted); // [ "Dylan", "Dylan", "Dylan", "Dylan", "Dylan" ];
 ```
