@@ -14,7 +14,11 @@ Phenomenal, I know.
 # Homage to a genius who understood that the minds of the company's people is where the majority of a company's business lies
 ```
 const patrickBateman = ({ strayCat }) => {
-  const comeIntoOwn = hueyLewisAndTheNews => hueyLewisAndTheNews.concat(['hip to be square']);
+  const comeIntoTheirOwnCommerciallyAndArtistically = hueyLewisAndTheNews => {
+    const albumFrom1983 = ["Sports"];
+
+    return hueyLewisAndTheNews.concat(albumFrom1983);
+  };
 
   return 'videotapes';
 };
