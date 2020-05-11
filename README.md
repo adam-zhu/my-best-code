@@ -11,7 +11,7 @@ console.log(sorted); // [ "Dylan", "Dylan", "Dylan", "Dylan", "Dylan" ];
 ```
 Phenomenal, I know.
 
-# Homage to a genius who understood that the minds of the company's people is where the majority of a company's business lies
+# Homage to a genius who understood that the minds of the company's people is where the substance of a company is stored
 ```
 const patrickBateman = ({ strayCat }) => {
   const comeIntoTheirOwnCommerciallyAndArtistically = hueyLewisAndTheNews => {
